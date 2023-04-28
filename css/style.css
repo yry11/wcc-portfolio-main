@@ -149,6 +149,10 @@ img{
 .flex-item a#my-special3-id{
     background-image: url(../assets/images/2.jpg); 
 } 
+.flex-item a#my-special4-id{
+    background-image: url(../assets/images/5.jpg); 
+} 
+
 
 
 .flex-item a:hover{
