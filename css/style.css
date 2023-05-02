@@ -114,11 +114,11 @@ img{
 }
 
 .flex-basis-third .flex-item{
-    flex-basis: 33.33%; 
+    flex-basis: 50%;
 }
 
 .flex-basis-half .flex-item{
-    flex-basis: 50%; 
+    flex-basis:  33.33%; 
 }
 
 .flex-item a{
@@ -154,6 +154,11 @@ img{
 } 
 .flex-item a#my-speciale-id{
     background-image: url(../assets/images/p.jpg); 
+} 
+.flex-item a#my-specialf-id{
+    background-image: url(../assets/images/f1.png); 
+} .flex-item a#my-specialg-id{
+    background-image: url(../assets/images/f2.png); 
 } 
 
 
